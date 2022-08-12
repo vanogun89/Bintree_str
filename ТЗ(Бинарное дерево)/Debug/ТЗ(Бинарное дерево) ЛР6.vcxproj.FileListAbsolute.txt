@@ -1,0 +1,2 @@
+C:\Users\vanya\source\repos\ТЗ(Бинарное дерево) ЛР6\Debug\ТЗ(Бинарное дерево) ЛР6.exe
+C:\Users\vanya\source\repos\ТЗ(Бинарное дерево) ЛР6\Debug\ТЗ(Бинарное дерево) ЛР6.pdb
